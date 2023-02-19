@@ -1,0 +1,41 @@
+Body {
+    margin: 0px;
+    padding: 0px;
+    background-image: linear-gradient(to right, rgb(40, 17, 17), rgb(177, 177, 171));
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.digit {
+    font-size: 150px;
+    font-weight: bold;
+}
+
+.btn-cont {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.btn {
+    padding: 20px;
+    margin: 0px 7px 0px 7px;
+}
+
+#start {
+    background-color: #0984e3;
+}
+
+#stop {
+    background-color: #fd79a8;
+}
+
+#reset {
+    background-color: #a29bfe;
+}
+
+.text {
+    font-size: 20px;
+    font-weight: bold;
+}
